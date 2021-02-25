@@ -159,8 +159,8 @@ ex) <br/>
 |P(4.5<=몸길이<5.5)|2마리|
 |P(5.5<=몸길이<6.5)|1마리|
 
-위 도수분포의 히스토그램
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/1.JPG?raw=true" width="450px" height="300px" alt="histogram"/><br/>
+위 도수분포의 히스토그램 <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/1.JPG?raw=true" width="300px" alt="histogram"/><br/>
 
 ### 1.4.8 통계량
 - 데이터를 집계한 값
@@ -172,7 +172,8 @@ ex) <br/>
 ### 1.4.10 기댓값
 - 아직 얻지 못한 모르는 데이터에도 적용 가능한 평균값 
 - 기호 : μ , 확률 x 값 으로 계산
-
+<br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/2.JPG?raw=true" width="450px" alt="histogram"/><br/>
 
 
 ### 1.4.11 분산
