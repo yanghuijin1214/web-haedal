@@ -174,7 +174,7 @@ ex) <br/>
 - 아직 얻지 못한 모르는 데이터에도 적용 가능한 평균값 
 - 기호 :   , 확률 x 값 으로 계산
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/2.JPG?raw=true" width="450px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/2.JPG?raw=true" width="350px" alt="histogram"/><br/>
 
 
 ### 1.4.11 분산
@@ -273,3 +273,11 @@ ex) <br/>
 <hr/>
 
 ## 1.7 통계량 계산
+수식을 이용해 데이터를 표현하자
+
+### 1.7.1 왜 수식으로 표현하는가
+수식을 사용하면 **'짧으면서도 오해를 방지하는 표현'** 이 가능!
+
+### 1.7.2 표본
+샘플사이즈 N 을 취했을 때의 표본은 아래와 같다.
+$$$\sqrt{3x-1}+(1+x)^2$$$ 
