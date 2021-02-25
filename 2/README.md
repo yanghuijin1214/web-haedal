@@ -281,18 +281,18 @@ ex) <br/>
 ### 1.7.2 표본
 샘플사이즈 N 을 취했을 때의 표본은 아래와 같다.
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/4.JPG?raw=true" width="150px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/4.JPG?raw=true" width="170px" alt="histogram"/><br/>
 
 ### 1.7.3 평균값
 표본의 평균값 μ 는 아래와 같이 계산할 수 있다.
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/5.JPG?raw=true" width="90px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/5.JPG?raw=true" width="110px" alt="histogram"/><br/>
 정확히는 **산술평균** 이라고 한다
 
 ### 1.7.4 기댓값
 이산형 변수의 기댓값
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/6.JPG?raw=true" width="90px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/6.JPG?raw=true" width="110px" alt="histogram"/><br/>
 
 ### 1.7.5 모평균과 표본평균
 - 모평균 : 모집단의 평균값
@@ -301,40 +301,36 @@ ex) <br/>
 ### 1.7.6 분산(표본분산)
 데이터가 평균값(기댓값) 과 얼마나 떨어져있는지 <br/>
 분산 구하는 공식<br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/7.JPG?raw=true" width="100px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/7.JPG?raw=true" width="130px" alt="histogram"/><br/>
 확률 P를 이용해 다음처럼 표기도 가능
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/8.JPG?raw=true" width="110px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/8.JPG?raw=true" width="150px" alt="histogram"/><br/>
 
 ### 1.7.7 분산(불편분산)
 - 불편분산? 모분산에 비해 분산을 과소평가하는 경향이 있는 표본분산을 보정하기 위한 것
 - 분모를 N-1 로 해서 표본분산보다 조금 더 큰 값을 가짐
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/9.JPG?raw=true" width="110px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/9.JPG?raw=true" width="150px" alt="histogram"/><br/>
 
 
 ### 1.7.8 표본분산이 편향성을 가지는 이유
 - 표본은 *'전체 중 일부'* 이기 때문!
 
 ex)
-모수 <br/>
-{1,2,3,4,5,6,7} <br/>
-모평균 : 4
-
 |모집단|표본|
 |------|---|
 |{1,2,3,4,5,6,7}|{1,2,3}|
 |모평균 4|표본평균 2|
 
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/11.JPG?raw=true" width="300px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/11.JPG?raw=true" width="350px" alt="histogram"/><br/>
 분산은 '데이터와 평균값 간의 거리' <br/>
 분산이 과소평가된다! => **불편분산으로 보정**
 
 ### 1.7.9 표준편차
 분산에 제곱근을 씌운 것
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/10.JPG?raw=true" width="120px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/10.JPG?raw=true" width="150px" alt="histogram"/><br/>
 
 <br/>
 <hr/>
