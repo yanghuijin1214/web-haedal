@@ -160,7 +160,7 @@ ex) <br/>
 |P(5.5<=몸길이<6.5)|1마리|
 
 위 도수분포의 히스토그램
-<img src="/path/to/img.jpg" width="450px" height="300px" alt="histogram"></img><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/1.JPG?raw=true" width="450px" height="300px" alt="histogram"/><br/>
 
 ### 1.4.8 통계량
 - 데이터를 집계한 값
