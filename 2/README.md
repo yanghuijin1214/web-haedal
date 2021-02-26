@@ -450,7 +450,8 @@ P(X=x)
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/17.JPG?raw=true" width="150px" alt="histogram"/><br/>
 X는 이산형 확률분포를 취한다고 하고, 이때 함수 f(x)는 확률질량함수라고 한다. <br/>
 - 확률질량함수 : 값을 지정하면 그 값에 대한 확률을 즉시 계산할 수 있는 함수
-- 모든 확률을 더하면 1이 되어야 함 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/18.JPG?raw=true" width="120px" alt="histogram"/><br/>
+- 모든 확률을 더하면 1이 되어야 함 <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/18.JPG?raw=true" width="120px" alt="histogram"/><br/>
 
 ### 1.9.3 확률밀도
 실숫값을 갖는 변수 X가 x≤X≤x+Δx 를 취하는 확률이라 가정. <br/>
@@ -461,14 +462,14 @@ X는 이산형 확률분포를 취한다고 하고, 이때 함수 f(x)는 확률
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/19.JPG?raw=true" width="180px" alt="histogram"/><br/>
 확률밀도 함수 f(x)는 다음을 만족한다. <br/>
 0≤f(x) <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/20.JPG?raw=true" width="140px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/20.JPG?raw=true" width="100px" alt="histogram"/><br/>
 
 ### 1.9.5 확률의 합계, 확률밀도의 적분
 연속형 확률변수인 물고기 몸길이 Y가 따르는 확률밀도함수를 g(y)라고 할 때 1≤Y≤3이 될 확률<br/>
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/21.JPG?raw=true" width="140px" alt="histogram"/><br/>
 
 ### 1.9.6 적분과 면적의 관계
-- 면적 = 밑변 x 높이 (연속형 확률변수에서 면적이 확률이다)
+- 면적 = 밑변 x 높이 (연속형 확률변수에서 면적이 확률이다) <br/>
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/25.JPG?raw=true" width="350px" alt="histogram"/><br/>
 변수 a에서 b까지의 면적을 구하려면 아래 공식을 이용한다. <br/>
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/26.JPG?raw=true" width="200px" alt="histogram"/><br/>
