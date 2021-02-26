@@ -373,7 +373,7 @@ A∪B ={a;a∈A 또는 a∈B}
 - 차집합 A-B <br/>
 A-B={a;a∈A 그리고 a∉B}
 <br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/15.JPG?raw=true" width="400px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/15.JPG?raw=true" width="300px" alt="histogram"/><br/>
 
 ### 1.8.8 공집합
 - 요소를 하나도 갖고 있지 않은 모임. ∅ 
