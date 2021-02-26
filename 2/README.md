@@ -468,9 +468,32 @@ X는 이산형 확률분포를 취한다고 하고, 이때 함수 f(x)는 확률
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/21.JPG?raw=true" width="140px" alt="histogram"/><br/>
 
 ### 1.9.6 적분과 면적의 관계
+- 면적 = 밑변 x 높이 (연속형 확률변수에서 면적이 확률이다)
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/25.JPG?raw=true" width="350px" alt="histogram"/><br/>
+변수 a에서 b까지의 면적을 구하려면 아래 공식을 이용한다. <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/26.JPG?raw=true" width="200px" alt="histogram"/><br/>
 
-### 1.9.7
+
+### 1.9.7 정규분포의 확률밀도함수
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/23.JPG?raw=true" width="200px" alt="histogram"/><br/>
+- 정규분포의 특징
+1. -∞ ~ ∞ 의 실숫값을 취한다
+2. 평균값 부근의 확률밀도가 크다(평균값 주변에 데이터가 많다).
+3. 평균값에서 멀어질수록 확률밀도가 작다.
+4. 확률밀도의 크기는 평균값을 중심으로 좌우대칭이다.
+
 
 ### 1.9.8 확률분포를 따른다
 어떤 확률변수 X가 평균 μ, 분산 σ2의 정규분포를 따른다고 표시하면 다음과 같다 <br/>
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/22.JPG?raw=true" width="120px" alt="histogram"/><br/>
+
+### 1.9.9 독립적이고 동일한 확률분포
+- 독립적이고 동일한 확률분포를 따르는 경우를 iid(independent and identically distributed) 라고 함.
+
+### 1.9.10 정규분포의 확률밀도함수에서 확률을 계산하는 방법
+- 확률밀도 4에서 5까지 구간을 구하려고 하면 '-∞ ~ 5인 구간 적분한 결과' 에서 '-∞ ~ 4인 구간을 적분한 결과' 를 빼서 구한다.
+
+### 1.9.11 확률밀도에서 기댓값을 계산하는 방법
+기댓값은 '확률x그때의 값' 합계치로 계산 <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/24.JPG?raw=true" width="180px" alt="histogram"/><br/>
+
