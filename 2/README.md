@@ -174,7 +174,7 @@ ex) <br/>
 
 ### 1.4.10 기댓값
 - 아직 얻지 못한 모르는 데이터에도 적용 가능한 평균값 
-- 기호 :   , 확률 x 값 으로 계산
+- 기호 : μ , 확률 x 값 으로 계산
 <br/>
 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/2.JPG?raw=true" width="350px" alt="histogram"/><br/>
 
@@ -465,11 +465,12 @@ X는 이산형 확률분포를 취한다고 하고, 이때 함수 f(x)는 확률
 
 ### 1.9.5 확률의 합계, 확률밀도의 적분
 연속형 확률변수인 물고기 몸길이 Y가 따르는 확률밀도함수를 g(y)라고 할 때 1≤Y≤3이 될 확률<br/>
-<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/20.JPG?raw=true" width="140px" alt="histogram"/><br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/21.JPG?raw=true" width="140px" alt="histogram"/><br/>
 
 ### 1.9.6 적분과 면적의 관계
 
 ### 1.9.7
 
 ### 1.9.8 확률분포를 따른다
-어떤 확률변수 X가 평균 σ2
+어떤 확률변수 X가 평균 μ, 분산 σ2의 정규분포를 따른다고 표시하면 다음과 같다 <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/22.JPG?raw=true" width="120px" alt="histogram"/><br/>
