@@ -433,7 +433,7 @@ P(A|B) = P(A∩B)/P(B)
 P(A∩B)=P(B)xP(A|B)
 
 ### 1.8.20 독립
-- P(A∩B)=P(A)x(B) 가 성립하면 A와 B는 
+- P(A∩B)=P(A)x(B) 가 성립하면 A와 B는 독립이다
 - P(A|B)=P(B) 와 같은 의미
 
 <br/>
@@ -446,4 +446,27 @@ P(A∩B)=P(B)xP(A|B)
 P(X=x)
 
 ### 1.9.2 이산형 확률분포와 확률질량함수
-이산형 확률변수
+이산형 확률변수 X에 대해 <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/17.JPG?raw=true" width="150px" alt="histogram"/><br/>
+X는 이산형 확률분포를 취한다고 하고, 이때 함수 f(x)는 확률질량함수라고 한다. <br/>
+- 확률질량함수 : 값을 지정하면 그 값에 대한 확률을 즉시 계산할 수 있는 함수
+- 모든 확률을 더하면 1이 되어야 함 <img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/18.JPG?raw=true" width="120px" alt="histogram"/><br/>
+
+### 1.9.3 확률밀도
+실숫값을 갖는 변수 X가 x≤X≤x+Δx 를 취하는 확률이라 가정. <br/>
+Δx → 0 일 때 P(X)＊Δx 로 계산할 수 있다면 P(x) 를 x의 확률밀도라고 한다.
+
+### 1.9.4 연속형 확률분포와 확률밀도함수
+연속형 확률변수 X에 대해 다음 식의 f(x)는 확률밀도함수라고 한다. <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/19.JPG?raw=true" width="180px" alt="histogram"/><br/>
+확률밀도 함수 f(x)는 다음을 만족한다. <br/>
+0≤f(x) <br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/20.JPG?raw=true" width="140px" alt="histogram"/><br/>
+
+### 1.9.5 확률의 합계, 확률밀도의 적분
+연속형 확률변수인 물고기 몸길이 Y가 따르는 확률밀도함수를 g(y)라고 할 때 1≤Y≤3이 될 확률<br/>
+<img src="https://github.com/yanghuijin1214/web-haedal/blob/main/2/image/20.JPG?raw=true" width="140px" alt="histogram"/><br/>
+
+### 1.9.6 적분과 면적의 관계
+
+### 1.9.7
